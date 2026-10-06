@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/OnicronPandora"><img src="https://img.shields.io/github/followers/OnicronPandora?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=OnicronPandora&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile views" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=OnicronPandora&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile views" /> -->
 </p>
 
 ---
